@@ -14,6 +14,8 @@ The keras model is created by using Keras Sequential model from scratch and trai
 8. Pillow
 9. tf-nightly
 10. requests
+11. matplotlb
+12. scikit-learn
 install the following packages on your machine and be ready to tackle some errors.
 
 ### Note: Python 2.x is not supported
@@ -30,3 +32,7 @@ python Result_ModelWebcam.py
 python Result_Model.py
 
 ## Sample Output:
+
+
+## Datset Used
+Dataset is collected from online google images and is being shared in this repository. Dataset consist of 2200 images (each class has 1100 images).
