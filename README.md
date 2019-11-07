@@ -16,4 +16,17 @@ The keras model is created by using Keras Sequential model from scratch and trai
 10. requests
 install the following packages on your machine and be ready to tackle some errors.
 
-## Note: Python 2.x is not supported
+### Note: Python 2.x is not supported
+
+## Usage
+### For Training the Model
+python gendermodel.py --mode train 
+
+### for WebCam feed
+python Result_ModelWebcam.py
+
+### from IP Webcam which is the androiid application to take the video feed remotely
+
+python Result_Model.py
+
+## Sample Output:
