@@ -35,4 +35,5 @@ python Result_Model.py
 
 
 ## Datset Used
-Dataset is collected from online google images and is being shared in this repository. Dataset consist of 2200 images (each class has 1100 images).
+#### Dataset is collected from online google images and is being shared in this repository. Dataset consist of 2200 images (each class has 1100 images). Ypu can download the dataset and the pre-trained models from the given link:
+https://drive.google.com/open?id=1C8mgXVRtx8DisoK_FV39HTxJMM5ZsLNV
