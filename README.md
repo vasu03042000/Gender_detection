@@ -14,3 +14,6 @@ The keras model is created by using Keras Sequential model from scratch and trai
 8. Pillow
 9. tf-nightly
 10. requests
+install the following packages on your machine and be ready to tackle some errors.
+
+## Note: Python 2.x is not supported
