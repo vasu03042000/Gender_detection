@@ -27,7 +27,7 @@ python gendermodel.py --mode train
 ### for WebCam feed
 python Result_ModelWebcam.py
 
-### from IP Webcam which is the androiid application to take the video feed remotely
+### from IP Webcam which is the android application to take the video feed remotely
 
 python Result_Model.py
 
